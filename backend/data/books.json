@@ -1,0 +1,21 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "price": 10.99,
+      "description": "A novel about the American Dream in the 1920s.",
+      "rating": 4.5,
+      "imageUrl": "path/to/image.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "price": 12.99,
+      "description": "A gripping story of race, class, and justice in the 1930s.",
+      "rating": 5,
+      "imageUrl": "path/to/image2.jpg"
+    }
+  ]
+  
