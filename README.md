@@ -57,7 +57,7 @@ Abra a pasta "frontend" e execute o arquivo index.html no navegador.
 ## 👨‍💻 Autor
 
 Eduardo de Brito  
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/edu1brito/
 
 ## 📄 Licença
 
