@@ -1,12 +1,12 @@
 # 📚 Bookstore Project
 
-Projeto full stack de uma livraria desenvolvido com foco em Node.js, API REST e integração entre front-end e back-end.
+Full stack bookstore project built to practice Node.js, REST API development and front-end/back-end integration.
 
-## 📖 Sobre o projeto
+## 📖 About the project
 
-O Bookstore Project simula o funcionamento de uma livraria online, permitindo o gerenciamento de livros e a comunicação entre servidor e interface.
+The Bookstore Project simulates an online bookstore, allowing book management and communication between the server and the user interface.
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 Back-end:
 - Node.js
@@ -18,47 +18,48 @@ Front-end:
 - CSS
 - JavaScript
 
-## 📁 Estrutura do projeto
+## 📁 Project structure
 
 bookstore-project/
   backend/
   frontend/
   README.md
 
-## 🚀 Como rodar o projeto
+## 🚀 How to run the project
 
-1. Clonar o repositório
+1. Clone the repository
 
-git clone https://github.com/seu-usuario/bookstore-project.git
+git clone https://github.com/your-username/bookstore-project.git
 
-2. Entrar na pasta do back-end
+2. Go to the backend folder
 
 cd backend
 
-3. Instalar dependências
+3. Install dependencies
 
 npm install
 
-4. Rodar o servidor
+4. Start the server
 
 npm start
 
-5. Abrir o front-end
+5. Run the frontend
 
-Abra a pasta "frontend" e execute o arquivo index.html no navegador.
+Open the "frontend" folder and open the index.html file in your browser,
+or use the VS Code Live Server extension.
 
-## ✅ Funcionalidades
+## ✅ Features
 
-- Cadastro de livros
-- Listagem de livros
-- API REST básica
-- Integração com front-end
+- Book registration
+- Book listing
+- Basic REST API
+- Frontend and backend integration
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
 Eduardo de Brito  
 GitHub: https://github.com/edu1brito/
 
-## 📄 Licença
+## 📄 License
 
 MIT License
