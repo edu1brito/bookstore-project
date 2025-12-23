@@ -29,7 +29,7 @@ bookstore-project/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/bookstore-project.git
+git clone https://github.com/edu1brito/bookstore-project
 
 2. Go to the backend folder
 
